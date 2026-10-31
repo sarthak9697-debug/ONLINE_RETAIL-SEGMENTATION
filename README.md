@@ -1,2 +1,2 @@
-# ONLINE_RETAIL-SEGMENTATION
-Customer insights and segmentation project using Python, RFM analysis, and K-Means clustering to analyze purchasing behavior and identify customer segments.
+# Online Retail Customer Segmentation
+RFM-based K-Means customer segmentation project with a recruiter-friendly Streamlit demo and a separate FastAPI endpoint for Render deployment. Includes `model.pkl` and built-in sample RFM data for testing.
