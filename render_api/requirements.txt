@@ -1,0 +1,1 @@
+numpy>=2.0,<3\nscikit-learn>=1.5,<2\njoblib>=1.4,<2\nfastapi>=0.115,<1\nuvicorn[standard]>=0.30,<1\n
